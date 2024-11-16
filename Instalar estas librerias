@@ -1,0 +1,5 @@
+Librerias 
+Dentro de la carpeta donde pondras el proyecto abrela terminal y ejecuta 
+pip install tensorflow==2.18.0 keras==3.6.0 scikit-learn==1.5.2 numpy==1.26.4 scipy==1.14.1 pandas==2.2.3 matplotlib==3.9.2 seaborn==0.13.2 opencv-python==4.10.0.84 opencv-contrib-python==4.10.0.84 mediapipe==0.10.18 protobuf==4.25.5 h5py==3.12.1 requests==2.32.3 rich==13.9.4
+
+esto te instalara todas las librerias necesarias 
